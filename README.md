@@ -6,7 +6,6 @@ Welcome to the **Flower E-commerce Shop**! This project is a responsive website 
 - [Overview](#overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 - [License](#license)
 
 ## Overview
@@ -22,11 +21,6 @@ The Flower E-commerce Shop is designed to provide users with a seamless online s
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and responsive design.
   
-Usage
-Browse through the categories using the navigation bar.
-Click on a product to view details or add it to your shopping cart (this can be expanded if you add functionality).
-
-
 License
 This project is licensed under the MIT License.
 
