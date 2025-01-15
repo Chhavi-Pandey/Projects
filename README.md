@@ -23,17 +23,18 @@ A responsive web application built using **HTML**, **CSS**, and **JavaScript** t
 
 ## 2. **Flower Shop Website**
 
-### Overview
-A simple e-commerce website built to showcase a flower shop's offerings. The site is designed to display a variety of flowers, plants, and gifts, with an option for users to filter through different categories. It's aimed at small business owners who wish to have an online presence and accept online orders.
+This repository contains the code for a **Flower Shop Website** designed to showcase a variety of flower arrangements and gifts. It is built to give small businesses a simple, responsive online presence where users can view and inquire about different flower products.
 
-### Features
-- **Product Display:** Showcases different flower arrangements, plants, and gifts.
-- **Category Filtering:** Allows users to browse flowers, plants, and gifts separately.
-- **Responsive Design:** The website adjusts to different screen sizes, ensuring a smooth user experience across mobile, tablet, and desktop devices.
-- **Order Management:** Users can view products, read descriptions, and inquire about orders.
+## Overview
+The **Flower Shop Website** allows users to view a catalog of flowers, each with details such as product name, price, and a brief description. The website features a **responsive design**, ensuring that the layout adjusts to various screen sizes, providing a seamless experience on desktop, tablet, and mobile devices.
 
-### Technologies Used
-- **HTML** and **CSS** for creating the structure and styling.
-- **JavaScript** for adding dynamic interactions like filtering the product list.
+## Features
+- **Flower Display:** The website showcases different flower arrangements with names, prices, and descriptions.
+- **Responsive Layout:** The website automatically adjusts to fit mobile, tablet, and desktop screens for a smooth user experience.
+- **Simple Design:** Focuses on displaying flower products in a clean, minimalist layout for easy navigation.
+
+## Technologies Used
+- **HTML**: To structure the content of the website.
+- **CSS**: For styling and making the website responsive.
 
 
