@@ -1,28 +1,39 @@
-# Flower E-commerce Shop
+# Projects
 
-Welcome to the **Flower E-commerce Shop**! This project is a responsive website built using HTML and CSS that allows users to browse and purchase a variety of flowers, plants, and gifts.
+This repository contains my personal web development projects showcasing different skills and concepts. Below are the two projects currently available:
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [License](#license)
+## 1. **Expense Tracker (Pizza Pie)**
 
-## Overview
-The Flower E-commerce Shop is designed to provide users with a seamless online shopping experience for flowers and related products. The website features a user-friendly interface, categorized product listings, and a responsive design for mobile and desktop users.
+### Overview
+A responsive web application built using **HTML**, **CSS**, and **JavaScript** to manage and track daily expenses. It allows users to add, edit, delete, and filter expenses by category. The app also calculates and displays the total expense amount dynamically in real-time. It comes with a **dark mode** feature for better accessibility in low-light environments.
 
-## Features
-- **Navigation Bar**: Easy navigation with categories for flowers, plants, and gifts.
-- **Responsive Design**: Optimized for various screen sizes.
-- **Product Listings**: Display of different products with images and descriptions.
-- **User-Friendly Layout**: Simple, aesthetic design for better user experience.
+### Features
+- **Add/Remove/Edit Expenses:** Manage your expenses easily with options to add, edit, or delete them.
+- **Category Filtering:** Filter expenses by categories such as **Food**, **Transport**, **Entertainment**, or **Other**.
+- **Real-Time Total Calculation:** The app updates the total amount dynamically as you add or remove expenses.
+- **Responsive Design:** The app is designed to work across all devices, with a mobile-responsive layout.
 
-## Technologies Used
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling and responsive design.
-  
-License
-This project is licensed under the MIT License.
 
+### Technologies Used
+- **HTML** for the basic structure.
+- **CSS** for styling and responsive design.
+- **JavaScript** for dynamic interactions, including adding/editing/deleting expenses and filtering them by category.
+
+---
+
+## 2. **Flower Shop Website**
+
+### Overview
+A simple e-commerce website built to showcase a flower shop's offerings. The site is designed to display a variety of flowers, plants, and gifts, with an option for users to filter through different categories. It's aimed at small business owners who wish to have an online presence and accept online orders.
+
+### Features
+- **Product Display:** Showcases different flower arrangements, plants, and gifts.
+- **Category Filtering:** Allows users to browse flowers, plants, and gifts separately.
+- **Responsive Design:** The website adjusts to different screen sizes, ensuring a smooth user experience across mobile, tablet, and desktop devices.
+- **Order Management:** Users can view products, read descriptions, and inquire about orders.
+
+### Technologies Used
+- **HTML** and **CSS** for creating the structure and styling.
+- **JavaScript** for adding dynamic interactions like filtering the product list.
 
 
