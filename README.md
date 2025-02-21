@@ -2,7 +2,7 @@
 
 This repository contains my personal web development projects showcasing different skills and concepts. Below are the two projects currently available:
 
-## 1. **Expense Tracker (Pizza Pie)**
+## 1. **Expense Tracker**
 
 ### Overview
 A responsive web application built using **HTML**, **CSS**, and **JavaScript** to manage and track daily expenses. It allows users to add, edit, delete, and filter expenses by category. The app also calculates and displays the total expense amount dynamically in real-time. It comes with a **dark mode** feature for better accessibility in low-light environments.
